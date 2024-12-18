@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Second Year Student With CSE
 
 <!--
 **Goutam16-Withcode/Goutam16-Withcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
