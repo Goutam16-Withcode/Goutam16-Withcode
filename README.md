@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am Second Year Student With CSE and Completed with my Skills section in DSA in C++ and Start new learning in the ML
+I am Second Year Student With CSE and Completed with my Skills section in DSA in C++ and Now Focus on the Machine Learing and making projects on this skills
+
 <!--
 **Goutam16-Withcode/Goutam16-Withcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
