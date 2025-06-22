@@ -23,7 +23,7 @@
 🎓 B.Tech in Computer Science @ **IPS Academy - IES, Indore**  
 💼 Campus Ambassador @ **E-Cell IIT Bombay**  
 🧑‍💻 Hackathon Enthusiast | SIH 2024 Team Lead  
-🌟 GPA: **9.5 / 10.0**
+🌟 GPA: **9.2 / 10.0**
 
 I'm a developer who loves transforming ideas into reality using code. With a focus on **Machine Learning, Computer Vision**, and **Full-Stack Development**, I'm on a mission to build impactful tech solutions 🚀
 
@@ -35,7 +35,7 @@ I'm a developer who loves transforming ideas into reality using code. With a foc
 `Python` `C++` `JavaScript` `C`
 
 **Frameworks & Libraries:**  
-`TensorFlow` `PyTorch` `React.js` `Node.js` `Express.js` `OpenCV` `NLTK`
+`TensorFlow` `PyTorch` `React.js` `Node.js` `Express.js` `OpenCV` `NLTK` `RESTful-API`
 
 **Databases & Tools:**  
 `MySQL` `MongoDB` `Git & GitHub` `Postman` `Netlify` `Streamlit` `EasyOCR`
