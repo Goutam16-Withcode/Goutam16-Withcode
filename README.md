@@ -1,20 +1,4 @@
-<h1 align="center">Hi 👋, I'm Goutam Sharma</h1>
-<h3 align="center">Aspiring Software Developer | AI & ML Enthusiast | Tech Leader</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/goutam-sharma-3179262a4/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/Goutam_sharma7898/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white">
-  </a>
-  <a href="mailto:goutamshaarma001212@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Goutam16-Withcode">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white">
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Goutam Sharma</h1> <h3 align="center"> AI/ML Engineer in Progress • Software Developer • Tech & Community Leader </h3> <p align="center"> <a href="https://www.linkedin.com/in/goutam-sharma-3179262a4/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://leetcode.com/u/Goutam_sharma7898/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/> </a> <a href="mailto:goutamshaarma001212@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/Goutam16-Withcode"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> </p>
 
 ---
 
