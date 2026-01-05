@@ -26,28 +26,3 @@ I'm a developer who loves transforming ideas into reality using code. With a foc
 
 **Soft Skills:**  
 💡 Problem Solving | 🤝 Collaboration | 🎯 Leadership | 💬 Communication
-
----
-
-## 🧠 Projects
-
-- 🔍 [**Image Captioning**](https://github.com/Goutam16-Withcode/Image_Captioning_project.git)  
-  *CNN + LSTM | Python, Keras, TensorFlow, NLTK*  
-  → Generate captions from images using Deep Learning
-
-- 🧾 [**Text Extracted**](https://github.com/Goutam16-Withcode/Text_Extracted.git)  
-  *EasyOCR, Pytesseract, Streamlit, OpenCV*  
-  → OCR app for extracting medical text with enhanced image clarity
-
-- 🎮 [**Math Quiz Game**](https://github.com/Goutam16-Withcode/Math_Quiz-Game.git)  
-  *C++, Windows API, Timers, Sound Effects*  
-  → A timed interactive quiz app with keyboard input and real-time scoring
-
----
-
-## 🏆 Achievements
-
-- 🏅 **37th Rank** – E-Cell IIT Bombay Campus Ambassadors  
-- 🧠 **Top 5%** in Math & Science (High School)  
-- 🛠️ **Built AI-powered EdTech platform** for Education Ministry @ SIH  
-- 📜 [**Udemy Certifications**](https://udemy-certificate.s3.amazonaws.com/image/UC-731e5338-59d1-429d-963)
